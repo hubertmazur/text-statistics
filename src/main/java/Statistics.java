@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 
 public interface Statistics<T> {
 
-    T analyze(String text);
+    T analyse(String text);
 
     String analyzeWithFormattedOutput(String text);
 
