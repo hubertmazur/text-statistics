@@ -7,10 +7,6 @@ public class Main {
 
         APILanguageDetector api = new APILanguageDetector("f6ea54fbb725dedc4b2235914d10440a");
 
-    System.out.println(api.detect("Litwo! Ojczyzno moja! ty jesteś jak zdrowie:\n"
-            + "Ile cię trzeba cenić, ten tylko się dowie,\n" + "Kto cię stracił. Dziś piękność twą w całej ozdobie\n"
-            + "Widzę i opisuję, bo tęsknię po tobie."));
-
 
     }
 }
